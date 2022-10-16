@@ -8,5 +8,5 @@ PNT2022TMID12350
 Team Leader   : SUBHIKSHA S\
 Team member 1 : GOUSIKA M\
 Team member 2 : VIDHYA S\
-Team member 3 : PARALOGA MARY
+Team member 3 : PARALOGA MARY A
 
